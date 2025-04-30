@@ -1,0 +1,2 @@
+# Stocki
+Stocki IA 
